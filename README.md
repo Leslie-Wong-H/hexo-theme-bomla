@@ -52,7 +52,7 @@ $ git clone https://github.com/Leslie-Wong-H/hexo-theme-bomla.git themes/bomla
 theme: bomla
 ```
 
-### 参数配置 hexo\themes\bomla_config.yml
+### 参数配置 hexo\themes\bomla\\\_config.yml
 
 ```yml
 # Header
