@@ -6,6 +6,8 @@ A traditional Chinese style theme for Hexo, inspired from hexo-theme-yilia.
 
 ### 效果图 Rendering
 
+Live Demo: https://www.lesliewong.cn
+
 **桌面版 Desktop**
 
 文章列表 Article List
